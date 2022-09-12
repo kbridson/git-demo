@@ -6,5 +6,5 @@ def subtract(num1, num2)
   num1 - num2
 end
 
-add(4, 7)
-subtract(7, 4)
+puts add(4, 7)
+puts subtract(7, 4)
